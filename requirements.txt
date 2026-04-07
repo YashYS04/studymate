@@ -1,0 +1,10 @@
+google-adk==1.14.0
+mcp
+google-cloud-datastore
+google-genai
+wikipedia==1.4.0
+langchain-community==0.3.27
+google-cloud-logging
+python-dotenv
+fastapi
+uvicorn
