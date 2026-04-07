@@ -34,8 +34,11 @@ The agent is equipped with a specialized suite of Python-powered tools that it c
 ### **4. Scheduling & Planning**
 * **`schedule_event`**: Records specific dates and times for exams, study groups, or project deadlines.
 * **`view_schedule`**: Displays your upcoming academic calendar in a clear, chronological list.
+  
+<img width="1911" height="875" alt="project1" src="https://github.com/user-attachments/assets/fe5d86b1-bc28-4911-af5d-5235cae92a27" />
 
 ---
+<img width="1906" height="868" alt="project3" src="https://github.com/user-attachments/assets/8bb8d9f7-01d8-4a35-ad90-16e24d09e754" />
 
 ## 🏗️ Technical Stack
 
